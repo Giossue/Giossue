@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/header.svg" alt="Giossue — desarrollo de software" width="100%" />
 
-  <p><strong>Aplicaciones web · Herramientas de escritorio · Sistemas</strong></p>
+  <p>🇪🇨 <strong>Ecuador</strong> · Aplicaciones web · Herramientas de escritorio · Sistemas</p>
   <p><a href="https://github.com/Giossue?tab=repositories">Explora mis repositorios</a></p>
 </div>
 
