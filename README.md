@@ -24,9 +24,17 @@ Actualmente trabajo en aplicaciones web, sistemas académicos y herramientas de 
 
 ## 🧰 Tecnologías
 
-**Frontend:** TypeScript · React · Next.js · Vue  
-**Backend y datos:** Laravel · PHP · Node.js · PostgreSQL  
-**Aplicaciones y herramientas:** Python · PyQt6 · Linux · Bun
+### 💻 Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React_Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+
+### ⚙️ Backend y datos
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### 🐧 Aplicaciones y herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## 🤝 Contacto
 
